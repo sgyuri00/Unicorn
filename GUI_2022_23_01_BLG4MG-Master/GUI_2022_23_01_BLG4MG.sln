@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_2022_23_01_BLG4MG", "GUI_2022_23_01_BLG4MG\GUI_2022_23_01_BLG4MG.csproj", "{38D696EE-56B1-4AE8-A591-AD23C8607AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D696EE-56B1-4AE8-A591-AD23C8607AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D696EE-56B1-4AE8-A591-AD23C8607AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D696EE-56B1-4AE8-A591-AD23C8607AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D696EE-56B1-4AE8-A591-AD23C8607AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8985DFD9-AB81-418D-BF58-6FBEE0FB5A1D}
+	EndGlobalSection
+EndGlobal
